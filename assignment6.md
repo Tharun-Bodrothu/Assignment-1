@@ -6,7 +6,8 @@
     <title>Sematic HTML</title>
 </head>
 <body>
-    <header style="font-size: 50px; text-align: center;"><br>Welcome to skolar<br>
+    <header>
+        <h1>Welcome to skolar</h1>
             <nav style="font-size: 25px;">
                 <a href="#home">Home</a>
                 <a href="#about">About</a>
