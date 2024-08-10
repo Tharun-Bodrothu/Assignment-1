@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+     <h3>A picture</h3>
 <img src="https://cdn.britannica.com/37/154237-050-A76A506D/blue-peafowl-tail-Indian-peacock-courtship-displays.jpg" alt="A beautiful bird" width="400px" height="250px" >
 <h3>“Nature’s vibrant masterpiece in full bloom.”</h3>
 
