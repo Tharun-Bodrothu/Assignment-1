@@ -6,6 +6,7 @@
     <title>Time Table</title>
 </head>
 <body>
+    <h1>My Daily routine<h1>
     <table border ="2px">
         <tr align="center">
             <th>Slot</th>
