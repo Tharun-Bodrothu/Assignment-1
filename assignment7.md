@@ -6,13 +6,13 @@
     <title>Audio & Vedio</title>
 </head>
 <body>
-    <p>Here is the audio of my favorite song</p>
+    <h2>Here is the audio of my favorite song</h2>
     <audio controls>
         <source src="images/[iSongs.info] 03 - Panchadhara Bomma.mp3">
         Your browser does not support the audio element.
     </audio>
     <p>The < audio > tag in HTML is used to embed sound content, such as music or podcasts, within a web page. It allows for the inclusion of various audio formats, including MP3, WAV, and OGG. The tag can include attributes that control playback, volume, and looping. For instance, you can add controls for play, pause, and volume adjustment directly on the web page, making it easy for users to interact with the audio content.</p><br><br>
-    <p>Here the vedio of my recent plays</p>
+    <h2>Here the vedio of my recent plays</h2>
     <video controls width="520px" height="300px">
         <source src="images/ammayi ammayi.mp4" >
         Your browser does not support the video element.
