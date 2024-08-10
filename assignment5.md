@@ -6,7 +6,7 @@
     <title>Nested lists</title>
 </head>
 <body>
-    <p>My top 5 favorite movies</p>
+    <h1>My top 5 favorite movies</h1>
     <div>
         <ol>
             <li>Magadheera</li>
